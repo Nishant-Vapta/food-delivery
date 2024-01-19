@@ -5,12 +5,10 @@
   border-color: black;
   border-width: 1px;
   padding: 0px 20px;
-
 }
 
 .logo {
   width: 100px;
-  
 }
 
 .nav-items > ul {
@@ -49,5 +47,11 @@
 .res-conatiner {
   display: flex;
   flex-wrap: wrap;
+}
+
+.filter-btn{
+  margin-left: 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
 }
 
