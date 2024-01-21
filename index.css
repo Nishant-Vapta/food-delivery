@@ -55,3 +55,23 @@
   cursor: pointer;
 }
 
+.shimmer-card{
+  background-color: #ffde37;
+  width: 200px;
+  height: 400px;
+  margin: 20px;
+}
+
+.shimmer-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.login-btn{
+  background-color: rgb(250, 247, 142);
+  width: 60px;
+  height: 30px;
+  margin-top: 14px;
+}
+
+
